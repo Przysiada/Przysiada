@@ -1,30 +1,32 @@
-<h1 align="center">Hi 👋, I'm Felipe Przysiada</h1>
-<h3 align="center">Teacher and Computer Engineer</h3>
+<h1 align="center">Hey 👋, I'm Felipe Przysiada </h1>
+<h3 align="center">Teacher and Computer Engineer </h3>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/felipe-augusto-przysiada-32a75222/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/22741577/felipe-przysiada"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC6lwL_1tcr7ubV1clS-D-KQ"><img height="30" src="https://www.youtube.com/s/desktop/38b2ce1b/img/favicon_48x48.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@przysiada.13"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
-
+ <a href="https://www.linkedin.com/in/felipe-augusto-przysiada-32a75222/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
+ <a href="https://stackoverflow.com/users/22741577/felipe-przysiada"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>&nbsp;&nbsp;
+ <a href="https://www.youtube.com/channel/UC6lwL_1tcr7ubV1clS-D-KQ"><img height="30" src="https://www.youtube.com/s/desktop/38b2ce1b/img/favicon_48x48.png"></a>&nbsp;&nbsp;
+ <a href="https://medium.com/@przysiada.13"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
 </p>
 
-I'm a 32 years old Teacher at Universidade Positivo. Computer Engineering graduated and Master at Eletrical Enginnering.
+---
+## About Me
+  - 🇧🇷 Living in [Curitiba](https://www.google.com/maps/place/Curitiba,+PR/@-25.4950501,-49.4298839,11z/data=!3m1!4b1!4m5!3m4!1s0x94dce35351cdb3dd:0x6d2f6ba5bacbe809!8m2!3d-25.4289541!4d-49.267137), Brazil
+  - 💬 You can reach me on [Linkedin](https://www.linkedin.com/in/felipe-augusto-przysiada-32a75222/)
+  - 🎓 BSc on Computer Engineering
+  - 🎓 Me on Electrical Engineergin
+  - 👨‍🏫 Teaching about Computer Science and Computer Engineering at [UP](https://up.com.br/)
+  - 🎂 Currently at level 32
 
+  ---
+## 💻 Work
 
-<a href="https://github.com/Przysiada/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Przysiada&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
-</a>
-</br> </br>
 <a href="https://github.com/Przysiada/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przysiada&layout=compact&hide_border=true&count_private=true&hide=vue,html,hcl,Dockerfile,CMake,Makefile&theme=dracula" />
 </a>
 
-### Curiosities
-
-🇧🇷 Living in [Curitiba](https://www.google.com/maps/place/Curitiba,+PR/@-25.4950501,-49.4298839,11z/data=!3m1!4b1!4m5!3m4!1s0x94dce35351cdb3dd:0x6d2f6ba5bacbe809!8m2!3d-25.4289541!4d-49.267137), Brazil
-
-  ---
+<a href="https://github.com/Przysiada/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Przysiada&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+</a>
 
 ### Languages
 <p>
@@ -68,6 +70,8 @@ I'm a 32 years old Teacher at Universidade Positivo. Computer Engineering gradua
   <img  width="38" height="38" alingn="left" src="./img/trello.svg" alt="Trello" />
 </p>
 
-  ---
+ ---
+ 
+## Certifications
 
-### Certifications
+## Curiosities
