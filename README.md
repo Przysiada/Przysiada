@@ -14,6 +14,7 @@
   - 💬 You can reach me on [Linkedin](https://www.linkedin.com/in/felipe-augusto-przysiada-32a75222/)
   - 🎓 BSc on Computer Engineering
   - 🎓 Me on Electrical Engineergin
+  - 💻 Firmware Engineer at [Landis+Gyr](https://www.landisgyr.com.br/)
   - 👨‍🏫 Teaching about Computer Science and Computer Engineering at [UP](https://up.com.br/)
   - 🎂 Currently at level 32
 
