@@ -16,7 +16,7 @@
   - 🎓 Me on Electrical Engineergin
   - 💻 Firmware Engineer at [Landis+Gyr](https://www.landisgyr.com.br/)
   - 👨‍🏫 Teaching about Computer Science and Computer Engineering at [UP](https://up.com.br/)
-  - 🎂 Currently at level 32
+  - 🎂 Currently at level 34
 
   ---
 ## 💻 Work
